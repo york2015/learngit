@@ -1,2 +1,2 @@
-	Git is a version diffrent system
+	Git is a version open system
 	Git  is a free software
