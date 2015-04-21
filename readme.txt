@@ -1,7 +1,3 @@
 	Git is a version control system
 	Git  is a free software
-
-		aaaaaa
-
-		bbbbbbb
- dev
+afasdfasdfas 的撒法师打发撒爱上aa 
